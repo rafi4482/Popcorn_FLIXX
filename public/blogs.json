@@ -1,0 +1,52 @@
+[
+  {
+    "ID": 1,
+    "coverimg": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0",
+    "title": "Exploring the Mountains",
+    "author": "John Doe",
+    "authorimage": "https://images.unsplash.com/photo-1494790108377-be9c29b29330",
+    "postdate": "2024-07-25",
+    "readingtime": "5 min",
+    "hashtags": ["#travel", "#adventure", "#mountains"]
+  },
+  {
+    "ID": 2,
+    "coverimg": "https://images.unsplash.com/photo-1529692236671-f1ad02ae6806",
+    "title": "The Art of Cooking",
+    "author": "Jane Smith",
+    "authorimage": "https://images.unsplash.com/photo-1502685104226-ee32379fefbe",
+    "postdate": "2024-07-24",
+    "readingtime": "7 min",
+    "hashtags": ["#cooking", "#recipes", "#food"]
+  },
+  {
+    "ID": 3,
+    "coverimg": "https://images.unsplash.com/photo-1517430816045-df4b7de6d0b6",
+    "title": "Technology in 2024",
+    "author": "Alice Johnson",
+    "authorimage": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce",
+    "postdate": "2024-07-23",
+    "readingtime": "6 min",
+    "hashtags": ["#technology", "#innovation", "#2024"]
+  },
+  {
+    "ID": 4,
+    "coverimg": "https://images.unsplash.com/photo-1556741533-f6acd64744fd",
+    "title": "Fitness Tips for Beginners",
+    "author": "Bob Lee",
+    "authorimage": "https://images.unsplash.com/photo-1518020382113-a7e8fc38eac9",
+    "postdate": "2024-07-22",
+    "readingtime": "4 min",
+    "hashtags": ["#fitness", "#health", "#beginners"]
+  },
+  {
+    "ID": 5,
+    "coverimg": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0",
+    "title": "A Guide to Meditation",
+    "author": "Cathy Brown",
+    "authorimage": "https://images.unsplash.com/photo-1494790108377-be9c29b29330",
+    "postdate": "2024-07-21",
+    "readingtime": "8 min",
+    "hashtags": ["#meditation", "#mindfulness", "#wellbeing"]
+  }
+]
